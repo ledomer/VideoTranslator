@@ -1,0 +1,5 @@
+*.srt
+*.vtt
+venv
+.idea
+
